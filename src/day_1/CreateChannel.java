@@ -8,9 +8,11 @@ public class CreateChannel {
         if(i == 0){
             System.out.println(i+5);
         }
+
+        int k = 1;
+        if(k==1){
+            k++;
+        }
     }
-    int k = 1;
-    if(k==1){
-        k++;
-    }
+
 }
